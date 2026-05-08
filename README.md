@@ -8,9 +8,7 @@ An end-to-end Machine Learning project that predicts customer churn using **XGBo
 
 
 ##  Live Demo
-(Replace this after deployment)
-
- https://your-streamlit-app-link.streamlit.app
+https://customer-churn-ai-fuxakulppmjh4whptjr6wp.streamlit.app/
 
 
 
