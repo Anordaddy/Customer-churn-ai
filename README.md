@@ -112,9 +112,16 @@ Built using Streamlit:
 
 
 
-##  Screenshots
+## 📷 Screenshots
 
-(Add your screenshots here)
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Feature Importance
+![Features](Feature_importance.png)
+
+### Risk Distribution
+![Risk](Risk_Distribution.png)
 
 
 
@@ -122,7 +129,7 @@ Built using Streamlit:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/customer-churn-ai-system.git
+git clone https://https://github.com/Anordaddy/Customer-churn-ai.git
 
 # Install dependencies
 pip install -r requirements.txt
