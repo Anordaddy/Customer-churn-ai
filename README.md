@@ -113,13 +113,13 @@ Built using Streamlit:
 ## 📷 Screenshots
 
 ### Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ### Feature Importance
-![Features](Feature_importance.png)
+![Features](assets/Feature_importance.png)
 
 ### Risk Distribution
-![Risk](Risk_Distribution.png)
+![Risk](assets/Risk_Distribution.png)
 
 ##  Power BI Dashboard
 
@@ -133,7 +133,7 @@ This project also includes a Power BI dashboard for customer churn analytics and
 - Interactive slicers and filters
 
 Power BI File:
-[Download Dashboard](PowerBi/Customer Churn Analysis Dashboard.pdf)
+[Download Dashboard](assets/PowerBi_Dashboard.png)
 
 ##  How to Run Locally
 
