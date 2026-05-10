@@ -133,7 +133,7 @@ This project also includes a Power BI dashboard for customer churn analytics and
 - Interactive slicers and filters
 
 Power BI File:
-[Download Dashboard]()
+[Download Dashboard](PowerBi/Customer Churn Analysis Dashboard.pdf)
 
 ##  How to Run Locally
 
