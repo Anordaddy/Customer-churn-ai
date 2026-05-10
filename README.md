@@ -121,7 +121,19 @@ Built using Streamlit:
 ### Risk Distribution
 ![Risk](Risk_Distribution.png)
 
+##  Power BI Dashboard
 
+This project also includes a Power BI dashboard for customer churn analytics and business intelligence reporting.
+
+### Features
+- Customer segmentation
+- Churn rate analysis
+- Contract analysis
+- Revenue insights
+- Interactive slicers and filters
+
+Power BI File:
+[Download Dashboard]()
 
 ##  How to Run Locally
 
