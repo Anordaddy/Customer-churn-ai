@@ -132,7 +132,8 @@ This project also includes a Power BI dashboard for customer churn analytics and
 - Revenue insights
 - Interactive slicers and filters
 
-Power BI File:
+
+## Customer Churn Analysis Dashboard
 ![Customer Churn Analysis Dashboard](assets/PowerBi_Dashboard.png)
 [Download Dashboard](PowerBi/Customer_Churn_Analysis_Dashboard.pbix)
 
